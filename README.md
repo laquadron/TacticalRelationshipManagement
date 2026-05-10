@@ -1,10 +1,7 @@
-# TacticalRelationshipManagement-aka-CheaterOS-
-CheaterOS. It's exactly what it sounds like. Please read the disclaimers.
-
-
-
 # TacticalRelationshipManagement (TRM)
 ### aka CheaterOS 🤣
+CheaterOS. It's exactly what it sounds like. Please read the disclaimers.
+
 
 > Enterprise-grade proximity detection, collision avoidance, and relationship risk mitigation
 > for the modern multi-stakeholder personal life.
